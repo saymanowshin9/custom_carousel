@@ -1,0 +1,31 @@
+.banner {
+	background-image: url(../images/img1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slider {
+	 padding: 80px 0px 80px 140px;
+	padding-right: 100px;
+	
+	background-color: rgba(1, 1, 1, .6);
+	color: white;
+
+}
+.slider h2 {
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+	
+.slider p {
+	font-size: 20px;
+	margin-bottom: 30px;
+
+}
+
+.cas-ind [data-bs-target] {
+ 
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
